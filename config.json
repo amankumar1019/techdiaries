@@ -1,0 +1,20 @@
+{
+  "params": {
+    "social_media": {
+      "fb": "https://facebook.com/coder",
+      "tw": "https://twitter.com/coder",
+      "git": "https://github.com/coder"
+    }
+  },
+  "db_params": {
+    "localHost": {
+      "DB_USERNAME":"root",
+      "DB_PASSWORD": "",
+      "DB_NAME": "BlogApp",
+      "DB_SOCKET": "/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock"
+    },
+    "Prod": {
+
+    }
+  }
+}
