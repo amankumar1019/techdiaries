@@ -1,4 +1,6 @@
 {
+  "localHost": true,
+  "secret_key": "abcd-1234",
   "params": {
     "social_media": {
       "fb": "https://facebook.com/coder",
@@ -16,5 +18,10 @@
     "Prod": {
 
     }
+  },
+  "max_posts": 2,
+  "login_creds": {
+    "username": "Aman",
+    "password": "pass"
   }
 }
